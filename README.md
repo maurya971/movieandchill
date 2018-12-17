@@ -43,11 +43,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-API Key (v3 auth)
-b622a2864924accfac837f5b60b97b4e
-
-API Read Access Token (v4 auth)
-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiNjIyYTI4NjQ5MjRhY2NmYWM4MzdmNWI2MGI5N2I0ZSIsInN1YiI6IjVjMTUxMzc0YzNhMzY4NjZjZTM2YWYzNSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.7Q44ETNvBluu8yORWorYiEQnBWUkltJhnu9ZuJf-qZg
-
-Example API Request
-https://api.themoviedb.org/3/movie/550?api_key=b622a2864924accfac837f5b60b97b4e
